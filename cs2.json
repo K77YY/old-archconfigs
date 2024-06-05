@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kyy/wallpaper/cpview.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0D13",
+        "foreground": "#c6bcb1",
+        "cursor": "#c6bcb1"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#6D5636",
+        "color2": "#534944",
+        "color3": "#6D5D54",
+        "color4": "#77655A",
+        "color5": "#8C715D",
+        "color6": "#6E8524",
+        "color7": "#c6bcb1",
+        "color8": "#8a837b",
+        "color9": "#6D5636",
+        "color10": "#534944",
+        "color11": "#6D5D54",
+        "color12": "#77655A",
+        "color13": "#8C715D",
+        "color14": "#6E8524",
+        "color15": "#c6bcb1"
+    }
+}
