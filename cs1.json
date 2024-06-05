@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kyy/wallpaper/bsbsloli.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#211624",
+        "foreground": "#ecd0dd",
+        "cursor": "#ecd0dd"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#A26E90",
+        "color2": "#CA7597",
+        "color3": "#6E88B2",
+        "color4": "#9B8EB1",
+        "color5": "#DD9AB2",
+        "color6": "#A3A0D0",
+        "color7": "#ecd0dd",
+        "color8": "#a5919a",
+        "color9": "#A26E90",
+        "color10": "#CA7597",
+        "color11": "#6E88B2",
+        "color12": "#9B8EB1",
+        "color13": "#DD9AB2",
+        "color14": "#A3A0D0",
+        "color15": "#ecd0dd"
+    }
+}
